@@ -12,7 +12,8 @@
         width: 80%;
     }
     input[type="submit"] {
-        min-width: 10px;
+        width: 86px;
+        padding: 0 8px !important;
     }
 }
 #heading{
