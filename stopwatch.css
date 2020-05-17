@@ -7,6 +7,11 @@
     border: 2px solid brown;
     border-radius: 10px;
 }
+@media only screen and (max-width: 600px) {
+    #total{
+        width: 90% !important;
+    }
+}
 #heading{
     
     padding-top: 10px;
@@ -79,9 +84,6 @@
         border: 1px solid #925050;
         color: #222;
     }
-    @media only screen and (max-width: 600px) {
-        #total{
-            width: 90%;
-        }
-    } 
+    
+    
     
