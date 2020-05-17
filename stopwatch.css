@@ -9,7 +9,10 @@
 }
 @media only screen and (max-width: 600px) {
     #total{
-        width: 90% !important;
+        width: 80%;
+    }
+    input[type="submit"] {
+        min-width: 10px;
     }
 }
 #heading{
